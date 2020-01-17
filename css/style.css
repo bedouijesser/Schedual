@@ -1,19 +1,7 @@
-.card-container {
-    padding-bottom: 0;
-}
+
 
 .nav-wrapper {
     background-color: #5c5c5c;
-}
-.row {
-    margin-bottom: 0;
-}
-
-.card {
-    cursor: pointer;
-}
-.material-icons {
-    margin: 0;
 }
 .hidden {
     display: none;
@@ -21,3 +9,18 @@
 main {
     margin-top: 1vh;
 }
+    .row {
+        margin-bottom: 0;
+    }
+
+    /* card */
+    .card-container {
+        padding-bottom: 0;
+    }
+    .card {
+        cursor: pointer;
+    }
+
+    .tab {
+        background-color: #efefef;
+    }
